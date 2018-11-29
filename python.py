@@ -4,4 +4,4 @@ def factorielle(n):
     else:
         return n * factorielle(n - 1)
 print("Hello world!\n")
-print(factorielle(9))
+print(factorielle(3))
